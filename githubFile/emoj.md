@@ -2,12 +2,12 @@
  * @Author: atdow
  * @Date: 2021-04-23 23:30:48
  * @LastEditors: null
- * @LastEditTime: 2021-04-23 23:31:45
+ * @LastEditTime: 2021-04-23 23:42:41
  * @Description: file content
 -->
 ### People
  效果 | 代号 | 效果 | 代号
----|:--:|---:|:---:
+---|:--:|:---:|:---:
  😄 | `:smile:` | 👎 | `:thumbsdown:`
  😆 | `:laughing:` | 👌 | `:ok_hand:`
  😊 | `:blush:` | 👊 | `:punch:`
