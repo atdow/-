@@ -2,12 +2,13 @@
  * @Author: atdow
  * @Date: 2021-04-23 23:29:36
  * @LastEditors: null
- * @LastEditTime: 2021-04-23 23:56:54
+ * @LastEditTime: 2021-04-24 00:09:39
  * @Description: file content
 -->
 # 前端学习之路
 ## github使用技巧
 - [github常用emoj](./githubFile/emoj.md) 
+- [github教程](https://github.com/giscafer/blog/blob/master/devtool/awesome-github.md) 
 
 ## vue3教程
 - [vue3之Lifecycle hooks](./vue3/1.vue3之Lifecycle-hooks.md) 
