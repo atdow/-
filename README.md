@@ -2,12 +2,13 @@
  * @Author: atdow
  * @Date: 2021-04-23 23:29:36
  * @LastEditors: null
- * @LastEditTime: 2021-04-24 00:09:39
+ * @LastEditTime: 2021-04-24 00:15:47
  * @Description: file content
 -->
 # 前端学习之路
 ## github使用技巧
-- [github常用emoj](./githubFile/emoj.md) 
+- [github常用emoji](./githubFile/emoji.md) 
+- [github上emoji表情的含义及使用规范](./githubFile/emoji-usage.md)
 - [github教程](https://github.com/giscafer/blog/blob/master/devtool/awesome-github.md) 
 
 ## vue3教程
